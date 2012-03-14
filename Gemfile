@@ -2,8 +2,12 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.2'
 
-gem 'sqlite3'
+# themes!
+# gem 'red-theme', :path => '../red_theme/'
+# gem 'blue-theme', :path => '../blue_theme/'
 
+
+gem 'sqlite3'
 
 # Gems used only for assets and not required
 # in production environments by default.
